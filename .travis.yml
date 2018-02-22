@@ -1,1 +1,9 @@
 language: java
+git:
+  depth: 3
+matrix:
+  include:
+  - os: linux
+    script:
+    - ./get-clangd
+    - ./gradlew assemble
