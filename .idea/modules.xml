@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clangd.iml" filepath="$PROJECT_DIR$/.idea/modules/clangd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clangd_main.iml" filepath="$PROJECT_DIR$/.idea/modules/clangd_main.iml" group="clangd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clangd_test.iml" filepath="$PROJECT_DIR$/.idea/modules/clangd_test.iml" group="clangd" />
+    </modules>
+  </component>
+</project>
